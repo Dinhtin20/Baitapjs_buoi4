@@ -1,0 +1,28 @@
+.content {
+    font-size: 20px;
+}
+
+.content button {
+    display: block;
+    margin-top: 20px;
+    background-color: #4b70e2;
+    padding: 10px 25px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+
+.content input {
+    width: 300px;
+    margin: 20px 0px;
+    padding: 20px 0;
+    border: 1px solid #cccccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+.result{
+    background-color: red;
+    padding: 20px 0;
+    margin: 20px 0;
+    border-radius: 10px;
+    color: white;
+}
